@@ -1,3 +1,4 @@
+//Verificando se o número é ímpar ou par
 //Importando o módulo 
 const readline = require('readline-sync')
 
